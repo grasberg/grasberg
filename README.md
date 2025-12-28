@@ -34,7 +34,7 @@ With **25 years of experience** building and operating business-critical infrast
 
 **🔐 Security & Blockchain**
 * **Crypto:** Bitcoin Core Node, Smart Contracts, Exchange Architecture.
-* **Cybersecurity:** Ethical hacking, Darknet/TOR, SSL, VPN[.
+* **Cybersecurity:** Ethical hacking, Darknet/TOR, SSL, VPN.
 * **Compliance:** KYC/AML API workflows.
 
 ---
