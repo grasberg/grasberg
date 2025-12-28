@@ -28,8 +28,9 @@ With **25 years of experience** building and operating business-critical infrast
 **☁️ Infrastructure & DevOps**
 * **Server Admin:** Linux (Ubuntu, CentOS, Kali) & Windows Server.
 * **Virtualization:** VMware Virtual Servers.
-* **Web Servers:** Apache, Postfix.
-* **Cloud:** Cloud computing.
+* **Web Servers:** Apache
+* **Email Servers:** Postfix, qmail, Dovecot.
+* **Cloud:** AWS
 
 **🔐 Security & Blockchain**
 * **Crypto:** Bitcoin Core Node, Smart Contracts, Exchange Architecture.
